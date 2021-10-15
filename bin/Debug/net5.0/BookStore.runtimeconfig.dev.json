@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bloff\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bloff\\.nuget\\packages"
+    ]
+  }
+}
